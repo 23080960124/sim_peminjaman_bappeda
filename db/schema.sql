@@ -1,0 +1,1 @@
+ALTER TABLE bookings ADD nip_pegawai VARCHAR(255);
